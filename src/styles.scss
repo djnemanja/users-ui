@@ -1,1 +1,9 @@
-/* You can add global styles to this file, and also import other style files */
+@import "primeflex/primeflex.css";
+@import "primeicons/primeicons.css";
+
+html, body {
+  height: 100%;
+  margin: 0;
+  background-color: #f2f2f2;
+  font-family: 'Poppins', sans-serif;
+}
